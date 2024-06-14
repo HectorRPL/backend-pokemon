@@ -30,6 +30,16 @@
 	$ npm install --save-dev @types/express
 	$ npm install -D ts-node typescrip
 
+##  configurar db
+
+	Revisar el commit de git
+	No olvidar agregar el archivo /.env con las credenciales de la base de datos
+
+## instalar cors para las solicitudes
+
+    $ npm install cors
+    $ npm install --save-dev @types/cors 
+
 
 ## Ejecutar app:
 
